@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @aymenalrufaiee
+- 👀 I’m interested in Coding 
+- 🌱 I’m currently learning javascript
+- 📫 Sorry, I currently have no way to communicate socially
