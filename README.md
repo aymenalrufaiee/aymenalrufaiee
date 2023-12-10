@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aymenalrufaiee
+- 👋 Hi, I’m @terxll 
 - 👀 I’m interested in Coding 
 - 🌱 I’m currently learning javascript
 - 📫 Sorry, I currently have no way to communicate socially
